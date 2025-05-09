@@ -111,7 +111,7 @@ npm start
 
 **5. Question about how to proceed:**
 - Slack and Zoom --or-- Discord ??
-- What kind of App ??
+- What kind of App ?? What API to use??
 - MongoDB looks like it will play nicely with Firebase or Azure (SQL could be tricky ??)
 - Jest is the community preferred unit testing solution (Anyone have another suggestion?)  
 - Should we stay basic with Github Issues, or go with Jira ??  
