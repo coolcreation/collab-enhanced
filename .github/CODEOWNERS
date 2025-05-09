@@ -1,0 +1,4 @@
+# This file tells GitHub who must review changes to specific files or the whole repo
+
+# Set default reviewers for all files
+*       @coolcreation @marlinroberts21 @ANLaMP @nelskev @ramosmarco95  
