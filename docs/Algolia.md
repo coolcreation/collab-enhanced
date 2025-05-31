@@ -1,0 +1,2 @@
+### Algolia notes  
+---
